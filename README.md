@@ -40,7 +40,7 @@ Bar charts were made to show the average content of each of the 13 varibles, org
 
 <ins>Models</ins>
 At this point 4 models were chosen to test train and predict on our data.
-1. KNN (K_nearest_neighbors) (KNN_Model_Jack.ipynb)
+1. KNN (K_nearest_neighbors) [here](KNN_Model_Jack.ipynb)
 2. Logistic Regression  
 3. LightGBM 
 4. Random Forest (Analysis Code - Rick.ipynb)
@@ -53,13 +53,6 @@ The general porocess we followed for model creation is below
 5. Create confusion matrix.
 
 * Since four models were used, please follow the embedded links above to see the exact code used for each model.
-
-<ul>
-  <li><a href=KNN_Model_Jack.ipynb</a></li>
-  <li><a href ="sql_schema_table_screenshots/subcategory_table.png">subcategory_table</a></li>
-  <li><a href = "sql_schema_table_screenshots/contacts_table.png">contacts_table</a></li>
-  <li><a href = "sql_schema_table_screenshots/campaign_table.png">campaign_table</a></li>
-</ul>
 
 
 
