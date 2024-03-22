@@ -19,10 +19,43 @@ The analysis determined the quantities of 13 constituents found in each of the t
 Data for this project was sourced from UC Irvine and posted publicly to their Machine Learning Repository, found here: https://archive.ics.uci.edu/dataset/109/wine
 
 # Process
-ETL
+<ins>ETL</ins>
 The data will be extracted directly from sklearn.datasets. 
 <ul>
   <li><code>from sklearn.datasets import load_wine
 </code></li>
 </ul>
+
+The data was clean and required minimaL transformation. 
+1. Combine features (X) and targets (y) into a single DataFrame
+2. Check for null values in the DataFrame (we had 0)
+3. Group variables by class and calculate averages
+4. Reset index
+5. Use value mapping. Map numerical values to descriptive names
+   (clean_data/m.png)
+
+<ins>Descriptive Figures</ins>
+Bar charts were made to show the average content of each of the 13 varibles, organized by Cultivar.
+
+
+<ins>Models</ins>
+At this point 4 models were chosen to test train and predict on our data.
+1. KNN (K_nearest_neighbors) (KNN_Model_Jack.ipynb)
+2. Logistic Regression  
+3. LightGBM 
+4. Random Forest (Analysis Code - Rick.ipynb)
+
+The general porocess we followed for model creation is below
+1. Split data into testing and training sets
+2. Scale the data using StandarsScaler
+3. Train the model
+4. Test the models prediction accuracy
+5. Create confusion matrix.
+
+* Since four models were used, please follow the embedded links above to see the exact code used for each model.
+
+
+
+
+
 
