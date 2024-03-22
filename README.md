@@ -39,11 +39,17 @@ Bar charts were made to show the average content of each of the 13 varibles, org
 
 
 <ins>Models</ins>
-At this point 4 models were chosen to test train and predict on our data.
-1. KNN (K_nearest_neighbors) [here](KNN_Model_Jack.ipynb)
-2. Logistic Regression   [here]()
-3. LightGBM  [here](Luis_Project_4/Luis' Code.ipynb)
-4. Random Forest  [here](Analysis Code - Rick.ipynb) 
+
+At this point, 4 models were chosen to test train and predict on our data.
+
+1. KNN (K_nearest_neighbors): [KNN_Model_Jack.ipynb](KNN_Model_Jack.ipynb)
+
+2. Logistic Regression: [Link to be provided]()
+
+3. LightGBM: [Luis_Project_4/Luis_Code.ipynb](Luis_Project_4/Luis_Code.ipynb)
+
+4. Random Forest: [Analysis_Code_Rick.ipynb](Analysis_Code_Rick.ipynb)
+
 
 The general porocess we followed for model creation is below
 1. Split data into testing and training sets
