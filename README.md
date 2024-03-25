@@ -40,7 +40,7 @@ Bar charts were made to show the average content of each of the 13 varibles, org
 
 <ins>Models</ins>
 
-At this point, 4 models were chosen to test train and predict on our data.
+At this point, 4 models were chosen to test, train, and predict on our data.
 
 1. KNN (K_nearest_neighbors): [KNN_Model_Jack.ipynb](KNN_Model_Jack.ipynb)
 
@@ -48,8 +48,9 @@ At this point, 4 models were chosen to test train and predict on our data.
 
 3. LightGBM: [Luis_Project_4/Luis_Code.ipynb](Luis_Project_4/Luis_Code.ipynb)
 
-4. Random Forest: [Forest](Analysis Code - Rick.ipynb)
-Analysis Code - Rick.ipynb
+4. Random Forest: [Analysis Code - Rick.ipynb](Analysis%20Code%20-%20Rick.ipynb)
+
+
 
 The general porocess we followed for model creation is below
 1. Split data into testing and training sets
