@@ -37,6 +37,8 @@ The data was clean and required minimaL transformation.
 
 <ins>Descriptive Figures</ins>
 Bar charts were made to show the average content of each of the 13 varibles, organized by Cultivar.
+Here is an image of one of the bar charts, the rest of them will be included within the sepcific code files below.
+![Flavanoid Content](images/flavanoid%20content.png)
 
 
 <ins>Models</ins>
