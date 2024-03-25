@@ -65,7 +65,7 @@ The general porocess we followed for model creation is below
 ![Screenshot](images/Screenshot%202024-03-25%20095455.png)
 
 
-As seen in the chart, KNN was the least accurate model for this task. All oother models reached 100% accurcay in round 1 or in round 2 after some hyperparamter tuning.
+As seen in the chart, KNN was the least accurate model for this task. All other models reached 100% accurcay in round 1 or in round 2 after some hyperparamter tuning.
 
 
 
