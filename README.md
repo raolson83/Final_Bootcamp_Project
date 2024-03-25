@@ -32,7 +32,8 @@ The data was clean and required minimaL transformation.
 3. Group variables by class and calculate averages
 4. Reset index
 5. Use value mapping. Map numerical values to descriptive names
-   (clean_data/m.png)
+ ![Clean Data](images/clean_data.png)
+
 
 <ins>Descriptive Figures</ins>
 Bar charts were made to show the average content of each of the 13 varibles, organized by Cultivar.
@@ -59,9 +60,12 @@ The general porocess we followed for model creation is below
 * Since four models were used, please follow the embedded links above to see the exact code used for each model.
 
 
-<ins>Round 1 Accuracy Results</ins>
+<ins>Results</ins>
+
+![Screenshot](images/Screenshot%202024-03-25%20095455.png)
 
 
+As seen in the chart, KNN was the least accurate model for this task. All oother models reached 100% accurcay in round 1 or in round 2 after some hyperparamter tuning.
 
 
 
