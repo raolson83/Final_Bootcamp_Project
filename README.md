@@ -46,7 +46,7 @@ At this point, 4 models were chosen to test, train, and predict on our data.
 
 2. Logistic Regression: [Link to be provided]()
 
-3. LightGBM: [Luis_Project_4/Luis_Code.ipynb](Luis_Project_4/Luis_Code.ipynb)
+3. LightGBM: [Luis_Project_4/Luis_Code.ipynb](Luis_Project_4/Luis' Code.ipynb)    
 
 4. Random Forest: [Analysis Code - Rick.ipynb](Analysis%20Code%20-%20Rick.ipynb)
 
