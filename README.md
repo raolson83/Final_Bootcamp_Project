@@ -48,8 +48,8 @@ At this point, 4 models were chosen to test train and predict on our data.
 
 3. LightGBM: [Luis_Project_4/Luis_Code.ipynb](Luis_Project_4/Luis_Code.ipynb)
 
-4. Random Forest: [Analysis_Code_Rick.ipynb](Analysis_Code_Rick.ipynb)
-
+4. Random Forest: [Analysis_Code_Rick.ipynb](Analysis Code - Rick.ipynb)
+Analysis Code - Rick.ipynb
 
 The general porocess we followed for model creation is below
 1. Split data into testing and training sets
