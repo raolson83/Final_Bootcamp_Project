@@ -46,7 +46,7 @@ Here is an image of one of the bar charts, the rest of them will be included wit
 At this point, 4 models were chosen to test, train, and predict on our data.
 
 1. KNN (K_nearest_neighbors): [KNN_Model_Jack.ipynb](KNN_Model_Jack.ipynb)
-2. Logistic Regression: [Link to be provided]()
+2. Logistic Regression: [Project 4.ipynb](Project 4.ipynb)
 3. LightGBM: [Luis_Project_4/Luis_Code.ipynb](Luis_Project_4/Luis%27%20Code.ipynb)
 4. Random Forest: [Analysis Code - Rick.ipynb](Analysis%20Code%20-%20Rick.ipynb)
 
